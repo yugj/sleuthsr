@@ -17,3 +17,8 @@ spring:
       simple:
         retry:
           enabled: true
+  security:
+    user:
+      name: yugj
+      password: yugj
+      roles: sys
